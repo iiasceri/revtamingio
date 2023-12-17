@@ -1,0 +1,16 @@
+token: rygmxnutrtcgkmzhnmyudwnai6vunlksblu7fh8qj1p0
+
+https://account.taming.io/declineClanMember?&id=869495&mail=mix4800@mail.ru&token=enm3z09u3dk6ihehff4f254brqka7s6c41zrkr1u6vez
+
+https://account.taming.io/getClan?mail=mix4800@mail.ru&token=enm3z09u3dk6ihehff4f254brqka7s6c41zrkr1u6vez
+
+https://account.taming.io/acceptClanMember?&id=1313794&mail=mix4800@mail.ru&token=enm3z09u3dk6ihehff4f254brqka7s6c41zrkr1u6vez
+
+https://account.taming.io/kickClanMember?&id=1292300&mail=mix4800@mail.ru&token=enm3z09u3dk6ihehff4f254brqka7s6c41zrkr1u6vez
+
+https://account.taming.io/player?id=1292300
+
+https://account.taming.io/xsolla?product=400&mail=mix4800@mail.ru&token=enm3z09u3dk6ihehff4f254brqka7s6c41zrkr1u6vez
+
+https://account.taming.io/getClan?mail=mix4800@mail.ru&token=rygmxnutrtcgkmzhnmyudwnai6vunlksblu7fh8qj1p0
+
